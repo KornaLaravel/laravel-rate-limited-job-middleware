@@ -2,6 +2,10 @@
 
 All notable changes to `laravel-rate-limited-job-middleware` will be documented in this file
 
+## 2.9.0 - 2026-02-25
+
+Add Laravel 13 support
+
 ## 2.8.2 - 2025-11-25
 
 ### What's Changed
